@@ -1,0 +1,7 @@
+# Asset files are byte-pinned via CHECKSUMS.sha256 — do NOT normalize line
+# endings or the committed bytes stop matching the recorded hashes.
+* -text
+LICENSE  text=auto
+README.md text=auto
+PROVENANCE.md text=auto
+.gitattributes text=auto
